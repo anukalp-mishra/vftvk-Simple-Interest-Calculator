@@ -1,19 +1,23 @@
 body {
-    background-color:black;
-    font-family: arial;
-    color: white;
+  background-color: black;
+  font-family: arial narrow;
+  color: white;
 }
-h1{
-    color:grey;
-    font-family: verdana;
+h1 {
+  color: grey;
+  font-family: arial black;
+  margin-left: 775px;
 }
-.mandiv{
-    background-color: white;
-    color: black;
-    width: 300px;
-    padding: 20px;
-    border-radius: 25px;
-    text-align: center;
+footer {
+  margin-left: 785px;
 }
-
-
+.mandiv {
+  background: white;
+  width: 300px;
+  padding: 20px;
+  margin: auto;
+  border-radius: 25px;
+}
+table {
+  margin-left: 850px;
+}
